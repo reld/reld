@@ -1,0 +1,26 @@
+{
+  "name": "reld",
+  "version": "1.0.0",
+  "description": "Meet Rómulo Lazarde Delgado | Creative Technologist",
+  "main": "index.js",
+  "bin": {
+    "reld": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reld/reld.git"
+  },
+  "keywords": [
+    "Creative",
+    "coding"
+  ],
+  "author": "RELD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reld/reld/issues"
+  },
+  "homepage": "https://github.com/reld/reld#readme"
+}
