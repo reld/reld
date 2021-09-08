@@ -1,16 +1,21 @@
 #!/usr/bin/env node
+
+// Clear console
+// Thank you ahmadawais
+process.stdout.write(process.platform === 'win32' ? '\x1B[2J\x1B[0f' : '\x1B[2J\x1B[3J\x1B[H');
+
 console.log(`
 Rómulo E. Lazarde Delgado
 Creative Techonologist
 
-Skills:
+🤓 Skills:
 - Fast Prototyping Soft- / Hardware
 - Design Systems - Pipeline / Components creation, setup and maintainance
 - Fullstack development
 - Research and innovation
 - DevOps - AWS, Azure, Linux, NginX, Docker
 
-Languages:
+🗄 Languages:
 - Javascript
 - CSS
 - HTML
@@ -19,17 +24,17 @@ Languages:
 - Bash
 - Typescript
 
-Frameworks:
+🍱 Frameworks:
 - Svelte
 - Vue
 - React
 - Angular
 - Preact
 
-Www:
+🌍 Www:
 - https://iconstorm.com
 
-Code: 
+💾 Code: 
 - https://github.com/reld
 - https://github.com/iconstorm
 
