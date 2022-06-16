@@ -9,33 +9,33 @@ Rómulo E. Lazarde Delgado
 Creative Techonologist
 
 🤓 Skills:
-- Fast Prototyping Soft- / Hardware
+- Rapid High-End Prototyping
 - Design Systems - Pipeline / Components creation, setup and maintainance
 - Fullstack development
 - Research and innovation
 - DevOps - AWS, Azure, Linux, NginX, Docker
 
 🗄 Languages:
-- Javascript
+- Javascript (Front and Back[NodeJS])
+- Typescript
 - CSS
 - HTML
 - Python
 - PHP
 - Bash
-- Typescript
+- Spanish
+- English
+- German
 
 🍱 Frameworks:
+- SolidJS
 - Svelte
 - Vue
 - React
-- Angular
-- Preact
-
-🌍 Www:
-- https://iconstorm.com
 
 💾 Code: 
 - https://github.com/reld
 - https://github.com/iconstorm
+- https://github.com/telekom/scale
 
 `);
