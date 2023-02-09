@@ -4,15 +4,19 @@
   "description": "Meet Rómulo Lazarde Delgado | Creative Technologist",
   "main": "index.js",
   "bin": {
-    "reld": "index.js"
+    "reld": "./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reld/reld.git"
   },
+  "scripts": {
+    "test": "./index.js"
+  },
   "keywords": [
-    "Creative",
-    "coding"
+    "Creative coding",
+    "Senior cretive technologist",
+    "Senior frontend developer"
   ],
   "author": "RELD",
   "license": "MIT",
