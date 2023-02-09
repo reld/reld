@@ -6,14 +6,17 @@ process.stdout.write(process.platform === 'win32' ? '\x1B[2J\x1B[0f' : '\x1B[2J\
 
 console.log(`
 Rómulo E. Lazarde Delgado
-Creative Techonologist
+Senior Creative Techonologist / Frontend Developer
 
 🤓 Skills:
+- High-End Frontend development
 - Rapid High-End Prototyping
 - Design Systems - Pipeline / Components creation, setup and maintainance
 - Fullstack development
 - Research and innovation
-- DevOps - AWS, Azure, Linux, NginX, Docker
+- Team player
+- Classic guitar player
+- Father of three
 
 🗄 Languages:
 - Javascript (Front and Back[NodeJS])
@@ -32,6 +35,7 @@ Creative Techonologist
 - Svelte
 - Vue
 - React
+- Preact
 
 💾 Code: 
 - https://github.com/reld
