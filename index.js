@@ -39,7 +39,6 @@ Senior Creative Techonologist / Frontend Developer
 
 💾 Code: 
 - https://github.com/reld
-- https://github.com/iconstorm
 - https://github.com/telekom/scale
 
 `);
