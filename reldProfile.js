@@ -13,12 +13,13 @@ Senior Creative Techonologist / Frontend Developer
 - Father of three
 
 🗄 Languages:
-- Javascript (Front and Back[NodeJS])
+- Javascript
 - Typescript
 - CSS
 - HTML
 - Python
 - PHP
+- Go (learning)
 - Bash
 - Spanish
 - English
@@ -30,10 +31,11 @@ Senior Creative Techonologist / Frontend Developer
 - Vue
 - React
 - Preact
+- Astro
+- Laravel
 
 💾 Code: 
 - https://github.com/reld
-- https://github.com/iconstorm
 - https://github.com/telekom/scale
 
 `
